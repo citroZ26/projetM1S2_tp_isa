@@ -76,11 +76,9 @@ void loop(void)
     bool result = false;
  
     delay(2000);
-    int h = dht.getHumidity();
-    int t = dht.getTemperature();
- 
-    data[0] = 20; //humidity
-    data[1] = 80; //temperature
+    
+    data[1] = dht.getHumidity();
+    data[3] = dht.getTemperature();
     result = lora.transferPacket(data, 2, 10);
  
     if(result)
