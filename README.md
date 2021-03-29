@@ -15,6 +15,8 @@ L'objectif de ce TP est d'initiatier au protocole de communication LoRaWAN et de
 <img src="https://user-images.githubusercontent.com/47259100/112844170-ba06aa00-90a3-11eb-810c-76f5558a4347.png" width=100/>
 
 ## Etape 1 - Branchement
+<img src="https://user-images.githubusercontent.com/47259100/112850642-7d8a7c80-90aa-11eb-842a-b1055065fa32.png" width=100/>
+
 ## Etape 2 - Téléchargement
 Téléchargement d'Arduino IDE:
 https://www.arduino.cc/en/software
@@ -23,8 +25,8 @@ Fichier -> Préférence -> URL de gestionnaire de cartes supplémentaires:
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
 Bibliothèque DHT à inclure dans le dossier : 
-* <a href="https://github.com/citroZ26/projetM1S2_tp_isa/blob/main/DHT.cpp">dht.h</a>
-* <a href="">dht.cpp</a>
+* <a href="https://github.com/citroZ26/projetM1S2_tp_isa/blob/main/DHT.h">dht.h</a>
+* <a href="https://github.com/citroZ26/projetM1S2_tp_isa/blob/main/DHT.cpp">dht.cpp</a>
 
 ## Etape 3 - Code à copier dans l'Arduino IDE
 ```
