@@ -1,5 +1,5 @@
 # TP ISA
-Par Chaigne Hyacinthe, Delaby Leo, Monvoisin Anthony et Roussel Victorien
+Par Chaigne Hyacinthe, Delaby Léo, Monvoisin Anthony et Roussel Victorien
 
 ## Objectif : 
 L'objectif de ce TP est d'initiatier au protocole de communication LoRaWAN et de montrer les possibilités qu'elle présente.
