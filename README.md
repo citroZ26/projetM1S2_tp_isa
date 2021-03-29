@@ -15,7 +15,7 @@ L'objectif de ce TP est d'initiatier au protocole de communication LoRaWAN et de
 <img src="https://user-images.githubusercontent.com/47259100/112844170-ba06aa00-90a3-11eb-810c-76f5558a4347.png" width=100/>
 
 ## Etape 1 - Branchement
-<img src="https://user-images.githubusercontent.com/47259100/112850642-7d8a7c80-90aa-11eb-842a-b1055065fa32.png" width=100/>
+<img src="https://user-images.githubusercontent.com/47259100/112850642-7d8a7c80-90aa-11eb-842a-b1055065fa32.png" width=300/>
 
 ## Etape 2 - Téléchargement
 Téléchargement d'Arduino IDE:
