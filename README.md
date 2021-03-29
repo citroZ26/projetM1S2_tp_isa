@@ -9,10 +9,10 @@ L'objectif de ce TP est d'initiatier au protocole de communication LoRaWAN et de
 <img src="https://user-images.githubusercontent.com/47259100/112843746-36e55400-90a3-11eb-9538-a5d5b874448c.png" width="200"/>
 
 ### x1 Capteur d'humidité et de température - Grove 
-<img src="https://user-images.githubusercontent.com/47259100/112844018-8b88cf00-90a3-11eb-9da6-63b35a8d2a74.png" width=100/>
+<img src="https://user-images.githubusercontent.com/47259100/112844018-8b88cf00-90a3-11eb-9da6-63b35a8d2a74.png" width=200/>
 
 ### x1 Câble USB - MicroUSB 
-<img src="https://user-images.githubusercontent.com/47259100/112844170-ba06aa00-90a3-11eb-810c-76f5558a4347.png" width=100/>
+<img src="https://user-images.githubusercontent.com/47259100/112844170-ba06aa00-90a3-11eb-810c-76f5558a4347.png" width=200/>
 
 ## Etape 1 - Branchement
 <img src="https://user-images.githubusercontent.com/47259100/112850642-7d8a7c80-90aa-11eb-842a-b1055065fa32.png" width=300/>
@@ -109,7 +109,7 @@ void loop(void)
     }
 }
 ```
-## Etape 4 - Televersement
+## Etape 4 - Téléversement
 Outil -> Type de carte -> Seeed SAMD (...) boards -> Seeduino LoRaWAN
 
 Puis téléverser :
