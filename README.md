@@ -23,8 +23,8 @@ Fichier -> Préférence -> URL de gestionnaire de cartes supplémentaires:
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 
 Bibliothèque DHT à inclure dans le dossier : 
-* dht.h
-* dht.cpp
+* <a href="https://github.com/citroZ26/projetM1S2_tp_isa/blob/main/DHT.cpp">dht.h</a>
+* <a href="">dht.cpp</a>
 
 ## Etape 3 - Code à copier dans l'Arduino IDE
 ```
