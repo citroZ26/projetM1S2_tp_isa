@@ -79,7 +79,7 @@ void loop(void)
     
     data[1] = dht.getHumidity();
     data[3] = dht.getTemperature();
-    result = lora.transferPacket(data, 2, 10);
+    result = lora.transferPacket(data, 4, 10);
  
     if(result)
     {
