@@ -113,3 +113,6 @@ Outil -> Type de carte -> Seeed SAMD (...) boards -> Seeduino LoRaWAN
 Puis téléverser :
 
 <img src="https://user-images.githubusercontent.com/47259100/112849612-87f84680-90a9-11eb-946d-8e21ca1c5eab.png" width="200"/>
+
+## Etape 5 - Accès aux données
+Dans un navigateur web, entrer : http://rhf2s001.local:3000/handler
